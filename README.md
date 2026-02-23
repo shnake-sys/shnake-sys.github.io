@@ -1,1 +1,0 @@
-# shnake-sys.github.io
