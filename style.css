@@ -54,6 +54,7 @@ img {
   margin-top: 40px;
   margin-left: 5%;
   margin-right: 5%;
+  margin-bottom: 40px;
   height: 3px;
   background: linear-gradient(to right, transparent, #ffffff, transparent);
 }
@@ -62,4 +63,5 @@ img {
   to {
     transform: translateY(110vh);
   }
+
 }
